@@ -8,7 +8,7 @@ ls
 ```
 
 ## *Stuff n' Things*
-![alt text](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn0.dailydot.com%2Fcache%2F85%2F7e%2F857ea649bb656eb429631a20b549c347.jpg&f=1)
+![alt text](http://i2.kym-cdn.com/photos/images/newsfeed/001/154/407/d74.jpg)
 
 Who doesn't love a good meme? Either find or create a meme about data!
 * Post your meme as an image.
