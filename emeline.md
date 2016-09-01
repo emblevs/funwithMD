@@ -1,12 +1,9 @@
-Complete the following items using Markdown.
+## *Definition* 
+> **Markdown** is a text to html conversion program using an easy to read and easy to write text format. 
+[source](https://daringfireball.net/projects/markdown/)
 
-Create a section header, call it "Definition", and italicize the header.
 
-
-What is Markdown?
-  * Google it! Then, provide a definition as a block quote.
-  * Include a citation after the quote and turn it into a link. 
- 
+'''sh
 It's great for code! Take a command we learned to use in the terminal and share it. Hint: Instead of "python" or "javascript", we will use "sh" for shell.
   
  
