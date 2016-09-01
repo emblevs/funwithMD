@@ -3,13 +3,12 @@
 [source](https://daringfireball.net/projects/markdown/)
 
 
-'''sh
-It's great for code! Take a command we learned to use in the terminal and share it. Hint: Instead of "python" or "javascript", we will use "sh" for shell.
-  
- 
-Now, let's have some fun! 
+```sh
+ls
+```
 
-Create another section header, give it a name, and italicize the header.
+## *Stuff n' Things*
+![alt text](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn0.dailydot.com%2Fcache%2F85%2F7e%2F857ea649bb656eb429631a20b549c347.jpg&f=1)
 
 Who doesn't love a good meme? Either find or create a meme about data!
 * Post your meme as an image.
